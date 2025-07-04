@@ -1,8 +1,13 @@
+
 ---
-layout: home
-title: หน้าหลัก
-nav_order: 2
+layout: default
+title: บทที่ 1.1: โค้ดลับ
+parent: บทที่ 1: บั๊กในสมอง
+grand_parent: ภาค 1: จุดกำเนิด
+nav_order: 1
 ---
+
+
 
 # Cyber Guardian Novel
 

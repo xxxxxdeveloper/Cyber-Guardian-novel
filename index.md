@@ -1,7 +1,7 @@
 ---
 layout: default
-title: จุดกำเนิด: ที่มาของเรื่อง
-nav_order: 1
+title: หน้าหลัก
+
 ---
 
 

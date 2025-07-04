@@ -1,10 +1,11 @@
 ---
 layout: default
 title: "บทที่ 10: 10"
-parent: "Cyber Guardian Novel"
-grand_parent: "ภาค 2: 2"
-nav_order: 20
+parent: "ภาค 2: 2"
+grand_parent: "Cyber Guardian"
+nav_order: 10
 ---
+
 
 # บทที่ 10: 10
 

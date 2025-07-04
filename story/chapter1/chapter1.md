@@ -1,10 +1,11 @@
 ---
 layout: default
-title: "บทที่ 1: จุดกำเนิดแห่งสงคราม"
-parent: "Cyber Guardian Novel"
-grand_parent: "ภาค 1: จุดเริ่มต้น"
+title: "บทที่ 1: บั๊กในสมอง"
+parent: "ภาค 1: จุดเริ่มต้น"
+grand_parent: "Cyber Guardian"
 nav_order: 1
 ---
+
 
 # บทที่ 1: จุดกำเนิดแห่งสงคราม
 

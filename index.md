@@ -1,15 +1,15 @@
 ---
 layout: default
-title: "จุดกำเนิด: ที่มาของเรื่อง"
+title: "Cyber Guardian"
 nav_order: 1
 has_children: true
+permalink: /
 ---
 
-# Cyber Guardian
+# Cyber Guardian Novel
 
-> จุดเริ่มต้นของทุกสิ่ง
+ยินดีต้อนรับสู่โลกอนาคตที่มนุษย์และ AI กำลังเรียนรู้ซึ่งกันและกัน...
 
-(เนื้อหาบทที่ 0 ที่คุณต้องการแสดงหน้าแรก)
 
 
 

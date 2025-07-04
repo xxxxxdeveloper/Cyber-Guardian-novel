@@ -2,7 +2,6 @@
 layout: default
 title: จุดกำเนิด: ที่มาของเรื่อง
 nav_order: 1
-parent: หน้าหลัก
 ---
 
 

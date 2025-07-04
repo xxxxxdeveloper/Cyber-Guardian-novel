@@ -13,7 +13,6 @@ has_children: true
 
 
 
-# Cyber Guardian
 
 
 

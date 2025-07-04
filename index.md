@@ -9,8 +9,8 @@ title: หน้าหลัก
 
 ## บท
 
-- [บทที่ 1: บั๊กในสมอง](story/chapter1/chapter1.md)
-- [บทที่ 2: ความฝันของ Vinilo](story/chapter2/chapter2.md)
-- [บทที่ 3: ประตูควอนตัม](story/chapter3/chapter3.md)
+- [บทที่ 1: บั๊กในสมอง](story/chapter1/chapter1.html)
+- [บทที่ 2: ความฝันของ Vinilo](story/chapter2/chapter2.html)
+- [บทที่ 3: ประตูควอนตัม](story/chapter3/chapter3.html)
 
 

@@ -1,6 +1,7 @@
 ---
 layout: home
 title: หน้าหลัก
+nav_order: 2
 ---
 
 # Cyber Guardian Novel

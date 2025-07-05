@@ -1,9 +1,7 @@
-/* Apply Mitr font to the main body and general text */
-body {
-  font-family: 'Mitr', sans-serif;
-}
-
-/* Optional: Apply Mitr font to headings as well */
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Mitr', sans-serif;
+body,
+h1, h2, h3, h4, h5, h6,
+p,
+nav, footer,
+.site-title, .site-nav {
+  font-family: 'Mitr', sans-serif !important;
 }

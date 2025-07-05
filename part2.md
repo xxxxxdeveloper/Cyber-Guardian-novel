@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "ภาค 2: 2"
+title: " ภาค 2: Cyber Guardian – ผู้พิทักษ์หรือผู้กุมชะตา"
 parent: "Cyber Guardian"
 nav_order: 2
 has_children: true
 ---
-# ภาค 1: จุดเริ่มต้น
+#  ภาค 2: Cyber Guardian – ผู้พิทักษ์หรือผู้กุมชะตา

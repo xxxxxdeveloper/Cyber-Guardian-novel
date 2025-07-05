@@ -2,3 +2,8 @@ title: Cyber Guardian Novel
 description: นิยายไซไฟ AI และจิตวิทยาในโลกอนาคต.
 remote_theme: just-the-docs/just-the-docs
 url: https://xxxxxdeveloper.github.io/Cyber-Guardian-novel
+
+# เพิ่ม path ไปยังไฟล์ CSS
+just_the_docs:
+  custom_css:
+    - assets/css/custom.css

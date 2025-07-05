@@ -1,9 +1,8 @@
-/* ตัวอย่าง: เปลี่ยนสีพื้นหลังของ body */
 body {
-  background-color: #fdf6e3;
+  background-color: #f0f0f0 !important;
 }
 
-h1 {
-  color: #007acc;
+h1, h2 {
+  color: #ff6600 !important;
 }
 

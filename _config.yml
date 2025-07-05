@@ -4,6 +4,10 @@ description: ค้นหาความตื่นเต้น....ไปกั
 remote_theme: just-the-docs/just-the-docs
 url: https://xxxxxdeveloper.github.io/Cyber-Guardian-novel
 
+head:
+  - '<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">'
+
+
 just_the_docs:
   custom_css:
     - assets/css/custom.css

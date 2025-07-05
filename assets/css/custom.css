@@ -1,6 +1,9 @@
-/* assets/css/custom.css */
-@import url('https://fonts.googleapis.com/css2?family=Mitr:wght@300;400;600&display=swap');
-
-body, h1, h2, h3, h4, h5, h6 {
-  font-family: 'Mitr', sans-serif !important;
+/* ตัวอย่าง: เปลี่ยนสีพื้นหลังของ body */
+body {
+  background-color: #fdf6e3;
 }
+
+h1 {
+  color: #007acc;
+}
+

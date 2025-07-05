@@ -1,7 +1,12 @@
 title: Cyber Guardian
 description: ค้นหาความตื่นเต้น....ไปกับ.....ไซไฟ AI ปัชญา จิตวิทยา ความเชื่อ พวกเขาจะทำอย่างไร...ถ้า AI มันควบคุมเรา
 
-theme: jekyll-theme-midnight
+remote_theme: just-the-docs/just-the-docs
 url: "https://xxxxxdeveloper.github.io"
 baseurl: "/Cyber-Guardian-novel"
+
+just_the_docs:
+  custom_css:
+    - assets/css/custom.css
+
 

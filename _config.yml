@@ -1,15 +1,12 @@
-remote_theme: just-the-docs/just-the-docs
+title: Cyber Guardian
+description: ค้นหาความตื่นเต้น....ไปกับ.....ไซไฟ AI ปัชญา จิตวิทยา ความเชื่อ พวกเขาจะทำอย่างไร...ถ้า AI มันควบคุมเรา
 
-head:
-  - '<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">'
+remote_theme: just-the-docs/just-the-docs
+url: https://xxxxxdeveloper.github.io/Cyber-Guardian-novel
 
 just_the_docs:
   custom_css:
     - assets/css/custom.css
-
-plugins:
-  - jekyll-default-layout
-
 
 
 
